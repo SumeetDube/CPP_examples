@@ -1,12 +1,16 @@
 
 # C++ Programs and Examples
 
+
 This repository contains various C++ programs that demonstrate different concepts, including object-oriented programming, control structures, functions, templates, exception handling, file handling, and more. Each program is placed in the `src` directory and covers a specific topic or example. 
+
+Refer to [this](https://youtu.be/mUQZ1qmKlLY?si=ReR6n0XXBTOPgmUW) youtube video.
 
 ### Prerequisites
 
 - **C++ Compiler**: Make sure you have a C++ compiler installed, such as `g++` for Linux/macOS or `MSVC` for Windows.
 - **CMake**: Install CMake (version 3.10 or higher) to configure and generate the build files.
+
 
 ## C++ Topics Covered
 
